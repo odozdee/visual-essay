@@ -1,2 +1,2 @@
 # visual-essay
-Five Little Indians Visual Essay
+Five Little Indians Visual Essay using Pygame
